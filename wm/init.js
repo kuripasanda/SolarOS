@@ -13,7 +13,7 @@ window.SOLAROS_VERSION = "0.9.0";
 window.SOLAROS_CODENAME = "centauri";
 
 if (!window.localStorage.getItem("wisp-server")) {
-	window.localStorage.setItem("wisp-server", "wss://wisp.mercurywork.shop/");
+	window.localStorage.setItem("wisp-server", "wss://anura.pro/");
 }
 
 if (!window.localStorage.getItem("debug")) {
